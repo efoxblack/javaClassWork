@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d05be7ff-4ea0-46ab-b048-dbf52cb03c53" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/javaClassWork.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/javaClassWork.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,7 +39,9 @@
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1YzKc41lkWhyLdFnM66Orn4veFI" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -50,13 +55,13 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
-  <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="myfirstpackage.Main" />
-      <module name="javaMethodTesting" />
+  <component name="RunManager" selected="Application.whileLoopPractice">
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demo.Demo" />
+      <module name="javaClassWork" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="myfirstpackage.*" />
+          <option name="PATTERN" value="demo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -64,9 +69,47 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="scannerdemo.Main" />
+      <module name="javaClassWork" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="scannerdemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ifElsePractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ifElsePractice" />
+      <module name="javaClassWork" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="switchPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="switchPractice" />
+      <module name="javaClassWork" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="whileLoopPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="whileLoopPractice" />
+      <module name="javaClassWork" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.whileLoopPractice" />
+        <item itemvalue="Application.switchPractice" />
+        <item itemvalue="Application.ifElsePractice" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Demo" />
       </list>
     </recent_temporary>
   </component>
@@ -96,22 +139,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1584017714830" />
-    <state width="1322" height="177" key="GridCell.Tab.0.bottom" timestamp="1583950186344">
+    <state width="1322" height="177" key="GridCell.Tab.0.bottom" timestamp="1584132911491">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="177" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1583950186344" />
-    <state width="1322" height="177" key="GridCell.Tab.0.center" timestamp="1583950186343">
+    <state width="1322" height="177" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584132911491" />
+    <state width="1322" height="177" key="GridCell.Tab.0.center" timestamp="1584132911490">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="177" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1583950186343" />
-    <state width="1322" height="177" key="GridCell.Tab.0.left" timestamp="1583950186343">
+    <state width="1322" height="177" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1584132911490" />
+    <state width="1322" height="177" key="GridCell.Tab.0.left" timestamp="1584132911490">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="177" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1583950186343" />
-    <state width="1322" height="177" key="GridCell.Tab.0.right" timestamp="1583950186344">
+    <state width="1322" height="177" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1584132911490" />
+    <state width="1322" height="177" key="GridCell.Tab.0.right" timestamp="1584132911491">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="177" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1583950186344" />
+    <state width="1322" height="177" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1584132911491" />
     <state x="163" y="0" key="SettingsEditor" timestamp="1583946379329">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -124,9 +167,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="65" y="65" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1584019293288" />
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1583941936921">
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1584131582411">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1583941936921" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1584131582411" />
   </component>
 </project>
