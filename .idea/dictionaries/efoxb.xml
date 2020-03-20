@@ -2,6 +2,9 @@
   <dictionary name="efoxb">
     <words>
       <w>mult</w>
+      <w>proj</w>
+      <w>sidedos</w>
+      <w>sideuno</w>
     </words>
   </dictionary>
 </component>

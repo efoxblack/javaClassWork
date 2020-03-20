@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d05be7ff-4ea0-46ab-b048-dbf52cb03c53" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/javaClassWork.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/javaClassWork.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/efoxb.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/efoxb.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/loops/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/loops/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/loops/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/loops/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/whileLoopPractice.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/whileLoopPractice.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,13 +56,13 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
-  <component name="RunManager" selected="Application.whileLoopPractice">
-    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="demo.Demo" />
+  <component name="RunManager" selected="Application.PalindromeProj">
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loops.Main" />
       <module name="javaClassWork" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="demo.*" />
+          <option name="PATTERN" value="loops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -69,12 +70,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="scannerdemo.Main" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="classPrac.Main" />
       <module name="javaClassWork" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="scannerdemo.*" />
+          <option name="PATTERN" value="classPrac.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,9 +83,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ifElsePractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ifElsePractice" />
+    <configuration name="PalindromeProj" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="palindrome.PalindromeProj" />
       <module name="javaClassWork" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="palindrome.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -105,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.whileLoopPractice" />
+        <item itemvalue="Application.PalindromeProj" />
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.switchPractice" />
-        <item itemvalue="Application.ifElsePractice" />
-        <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Demo" />
+        <item itemvalue="Application.whileLoopPractice" />
       </list>
     </recent_temporary>
   </component>
@@ -135,38 +142,38 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="363" y="91" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1366.728@0.0.1366.728" timestamp="1583940259993" />
-    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1584017714830">
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1584624003346">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1584017714830" />
-    <state width="1322" height="177" key="GridCell.Tab.0.bottom" timestamp="1584132911491">
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1584624003346" />
+    <state width="1322" height="177" key="GridCell.Tab.0.bottom" timestamp="1584732877953">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="177" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584132911491" />
-    <state width="1322" height="177" key="GridCell.Tab.0.center" timestamp="1584132911490">
+    <state width="1322" height="177" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584732877953" />
+    <state width="1322" height="177" key="GridCell.Tab.0.center" timestamp="1584732877953">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="177" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1584132911490" />
-    <state width="1322" height="177" key="GridCell.Tab.0.left" timestamp="1584132911490">
+    <state width="1322" height="177" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1584732877952" />
+    <state width="1322" height="177" key="GridCell.Tab.0.left" timestamp="1584732877951">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="177" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1584132911490" />
-    <state width="1322" height="177" key="GridCell.Tab.0.right" timestamp="1584132911491">
+    <state width="1322" height="177" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1584732877951" />
+    <state width="1322" height="177" key="GridCell.Tab.0.right" timestamp="1584732877953">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="177" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1584132911491" />
+    <state width="1322" height="177" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1584732877953" />
     <state x="163" y="0" key="SettingsEditor" timestamp="1583946379329">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1583946379329" />
-    <state x="379" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1584017679999">
+    <state x="379" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1584225054082">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="379" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1584017679999" />
-    <state x="65" y="65" key="new project wizard" timestamp="1584019293288">
+    <state x="379" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1584225054082" />
+    <state x="65" y="65" key="new project wizard" timestamp="1584226020558">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="65" y="65" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1584019293288" />
+    <state x="65" y="65" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1584226020558" />
     <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1584131582411">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
