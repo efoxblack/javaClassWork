@@ -1,4 +1,4 @@
-package inheritanceprac;
+package inheritancepracandinterfaces;
 
 public class Employee {
     private String firstName;

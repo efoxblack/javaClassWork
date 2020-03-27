@@ -1,4 +1,4 @@
-package inheritanceprac;
+package inheritancepracandinterfaces;
 
 public class Main {
     public static void main(String[] args) {

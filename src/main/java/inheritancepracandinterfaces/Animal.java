@@ -1,6 +1,6 @@
-package inheritanceprac;
+package inheritancepracandinterfaces;
 
-public class Animal {
+public abstract class Animal {
     private Boolean isAlive;
     private int legs;
 
@@ -25,8 +25,8 @@ public class Animal {
         this.legs = legs;
     }
 
-    public String printAnimalSound () {
-        return "All animals make noise";
+    public String eat() {
+        return "All animals eat";
     }
 
     @Override

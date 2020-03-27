@@ -1,4 +1,4 @@
-package inheritanceprac;
+package inheritancepracandinterfaces;
 
 public class EmployeeTester {
     public static void main(String[] args) {
