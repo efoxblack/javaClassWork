@@ -2,24 +2,51 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d05be7ff-4ea0-46ab-b048-dbf52cb03c53" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/inheritancepracandinterfaces/AnimalTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/inheritancepracandinterfaces/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/inheritancepracandinterfaces/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/efoxb.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/efoxb.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/inheritanceprac/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/inheritancepracandinterfaces/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/inheritanceprac/AnimalTester.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/inheritanceprac/Cat.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/inheritanceprac/Dog.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/inheritanceprac/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/inheritancepracandinterfaces/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/inheritanceprac/EmployeeTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/inheritancepracandinterfaces/EmployeeTester.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/inheritanceprac/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/inheritancepracandinterfaces/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/inheritanceprac/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/inheritancepracandinterfaces/Triangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/shapes/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/shapes/Circle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/inheritanceprac/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/inheritanceprac/Animal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/inheritanceprac/AnimalTester.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/inheritanceprac/AnimalTester.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/inheritanceprac/Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/inheritanceprac/Cat.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/inheritanceprac/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/inheritanceprac/Dog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/PersonTester.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/PersonTester.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/animal/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/animal/Animal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/animal/AnimalTester.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/animal/AnimalTester.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/arrays/ArrayPractice.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/arrays/ArrayPractice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/classPrac/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/classPrac/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/classPrac/Rectangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/classPrac/Rectangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/classPrac/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/classPrac/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/classPrac/Triangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/classPrac/Triangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/demo/Demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/demo/Demo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/encapsulation/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/encapsulation/Employee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/encapsulation/EmployeeTester.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/encapsulation/EmployeeTester.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/encapsulation/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/encapsulation/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ifElsePractice.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ifElsePractice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inheritanceprac/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inheritanceprac/AnimalTester.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inheritanceprac/Canine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inheritanceprac/Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inheritanceprac/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inheritanceprac/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inheritanceprac/EmployeeTester.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inheritanceprac/Feline.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inheritanceprac/IPet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inheritanceprac/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inheritanceprac/RoboDog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inheritanceprac/Snake.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inheritanceprac/Triangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/loops/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/loops/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/main/MyFirstApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/main/MyFirstApp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/main/MyFirstAppTester.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/main/MyFirstAppTester.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/myfirstpackage/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/myfirstpackage/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/oop/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/oop/Animal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/oop/AnimalTester.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/oop/AnimalTester.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/oop/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/oop/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/oop/PersonTester.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/oop/PersonTester.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/palindrome/PalindromeProj.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/palindrome/PalindromeProj.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/person.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/scannerdemo/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/scannerdemo/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/shapes/Circle.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/shapes/Circle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/sprhr/Superhero.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/sprhr/Superhero.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/sprhr/SuperheroTester.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/sprhr/SuperheroTester.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/switchPractice.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/switchPractice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/testpack/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/testpack/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/whileLoopPractice.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/whileLoopPractice.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,33 +97,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
-  <component name="RunManager" selected="Application.AnimalTester (1)">
-    <configuration name="AnimalTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="inheritancepracandinterfaces.AnimalTester" />
-      <module name="javaClassWork" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="inheritancepracandinterfaces.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="EmployeeTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="encapsulation.EmployeeTester" />
-      <module name="javaClassWork" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="encapsulation.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.CalculatorTest.sineMethodTest">
     <configuration name="EmployeeTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="inheritancepracandinterfaces.EmployeeTester" />
       <module name="javaClassWork" />
@@ -110,39 +111,63 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="inheritancepracandinterfaces.Main" />
+    <configuration name="CalculatorTest.divideTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="javaClassWork" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="inheritancepracandinterfaces.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CalculatorTest" />
+      <option name="METHOD_NAME" value="divideTest" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PersonTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oop.PersonTester" />
+    <configuration name="CalculatorTest.exponentTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="javaClassWork" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="oop.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CalculatorTest" />
+      <option name="METHOD_NAME" value="exponentTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculatorTest.sineMethodTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="javaClassWork" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CalculatorTest" />
+      <option name="METHOD_NAME" value="sineMethodTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculatorTest.squareRootTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="javaClassWork" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CalculatorTest" />
+      <option name="METHOD_NAME" value="squareRootTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculatorTest.squareTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="javaClassWork" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CalculatorTest" />
+      <option name="METHOD_NAME" value="squareTest" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.AnimalTester (1)" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.EmployeeTester (1)" />
-        <item itemvalue="Application.EmployeeTester" />
-        <item itemvalue="Application.PersonTester" />
+        <item itemvalue="JUnit.CalculatorTest.sineMethodTest" />
+        <item itemvalue="JUnit.CalculatorTest.squareRootTest" />
+        <item itemvalue="JUnit.CalculatorTest.squareTest" />
+        <item itemvalue="JUnit.CalculatorTest.exponentTest" />
+        <item itemvalue="JUnit.CalculatorTest.divideTest" />
       </list>
     </recent_temporary>
   </component>
@@ -160,6 +185,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="237" y="13" key="#File_and_Code_Templates" timestamp="1585837668166">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="237" y="13" key="#File_and_Code_Templates/0.0.1366.728@0.0.1366.728" timestamp="1585837668166" />
     <state x="432" y="200" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1583948108545">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -168,50 +197,50 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1585338546781" />
-    <state x="363" y="91" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1583940259993">
+    <state x="363" y="91" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1585835278748">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="363" y="91" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1366.728@0.0.1366.728" timestamp="1583940259993" />
-    <state x="275" y="289" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1585148098154">
+    <state x="363" y="91" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1366.728@0.0.1366.728" timestamp="1585835278748" />
+    <state x="275" y="289" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1585832891830">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="289" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1366.728@0.0.1366.728" timestamp="1585148098154" />
-    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1585168764342">
+    <state x="275" y="289" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1366.728@0.0.1366.728" timestamp="1585832891830" />
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1585505940474">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1585168764342" />
-    <state width="1322" height="166" key="GridCell.Tab.0.bottom" timestamp="1585338743052">
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1585505940474" />
+    <state width="1323" height="194" key="GridCell.Tab.0.bottom" timestamp="1585838452573">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="166" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1585338743052" />
-    <state width="1322" height="166" key="GridCell.Tab.0.center" timestamp="1585338743052">
+    <state width="1323" height="194" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1585838452573" />
+    <state width="1323" height="194" key="GridCell.Tab.0.center" timestamp="1585838452573">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="166" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1585338743052" />
-    <state width="1322" height="166" key="GridCell.Tab.0.left" timestamp="1585338743051">
+    <state width="1323" height="194" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1585838452573" />
+    <state width="1323" height="194" key="GridCell.Tab.0.left" timestamp="1585838452573">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="166" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1585338743051" />
-    <state width="1322" height="166" key="GridCell.Tab.0.right" timestamp="1585338743052">
+    <state width="1323" height="194" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1585838452573" />
+    <state width="1323" height="194" key="GridCell.Tab.0.right" timestamp="1585838452573">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="166" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1585338743052" />
+    <state width="1323" height="194" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1585838452573" />
     <state x="163" y="0" key="SettingsEditor" timestamp="1583946379329">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1583946379329" />
-    <state x="379" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1585164266328">
+    <state x="379" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1585835388374">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="379" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1585164266328" />
+    <state x="379" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1585835388374" />
     <state x="65" y="65" key="new project wizard" timestamp="1585166647306">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="65" y="65" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1585166647306" />
-    <state x="339" y="162" key="run.anything.popup" timestamp="1585143916657">
+    <state x="339" y="162" key="run.anything.popup" timestamp="1585836375668">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1585143916657" />
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1585836375668" />
     <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1584131582411">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
