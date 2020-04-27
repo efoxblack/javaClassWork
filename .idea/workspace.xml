@@ -4,6 +4,8 @@
     <list default="true" id="d05be7ff-4ea0-46ab-b048-dbf52cb03c53" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/dictionaries/efoxb.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/efoxb.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/bluejlab/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/bluejlab/TableUtilities.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/bluejlab/TableUtilities.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +39,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../LoopProject" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -55,8 +57,8 @@
       <recent name="composition" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.NumberUtilitiesTest.testGetExponentiationNumbersForCube">
-    <configuration name="NumberUtilitiesTest.testGetExponentiationNumbersForCube" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.WriteLoopsTest.TestCheckServer">
+    <configuration name="WriteLoopsTest.TestCheckGameScore" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="javaClassWork" />
       <extension name="coverage">
         <pattern>
@@ -65,15 +67,15 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="bluejlab" />
-      <option name="MAIN_CLASS_NAME" value="bluejlab.NumberUtilitiesTest" />
-      <option name="METHOD_NAME" value="testGetExponentiationNumbersForCube" />
+      <option name="MAIN_CLASS_NAME" value="bluejlab.WriteLoopsTest" />
+      <option name="METHOD_NAME" value="TestCheckGameScore" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
         <option name="BSP.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumberUtilitiesTest.testGetExponentiationNumbersForSquare" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="WriteLoopsTest.TestCheckGameScoreDoWhile" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="javaClassWork" />
       <extension name="coverage">
         <pattern>
@@ -82,15 +84,15 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="bluejlab" />
-      <option name="MAIN_CLASS_NAME" value="bluejlab.NumberUtilitiesTest" />
-      <option name="METHOD_NAME" value="testGetExponentiationNumbersForSquare" />
+      <option name="MAIN_CLASS_NAME" value="bluejlab.WriteLoopsTest" />
+      <option name="METHOD_NAME" value="TestCheckGameScoreDoWhile" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
         <option name="BSP.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumberUtilitiesTest.testGetRangeWithFiveStep" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="WriteLoopsTest.TestCheckServer" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="javaClassWork" />
       <extension name="coverage">
         <pattern>
@@ -99,15 +101,15 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="bluejlab" />
-      <option name="MAIN_CLASS_NAME" value="bluejlab.NumberUtilitiesTest" />
-      <option name="METHOD_NAME" value="testGetRangeWithFiveStep" />
+      <option name="MAIN_CLASS_NAME" value="bluejlab.WriteLoopsTest" />
+      <option name="METHOD_NAME" value="TestCheckServer" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
         <option name="BSP.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumberUtilitiesTest.testGetRangeWithOneStep" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="WriteLoopsTest.TestDriveHome" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="javaClassWork" />
       <extension name="coverage">
         <pattern>
@@ -116,15 +118,15 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="bluejlab" />
-      <option name="MAIN_CLASS_NAME" value="bluejlab.NumberUtilitiesTest" />
-      <option name="METHOD_NAME" value="testGetRangeWithOneStep" />
+      <option name="MAIN_CLASS_NAME" value="bluejlab.WriteLoopsTest" />
+      <option name="METHOD_NAME" value="TestDriveHome" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
         <option name="BSP.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumberUtilitiesTest.testGetRangeWithTwoStep" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="WriteLoopsTest.TestHelloZipCode" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="javaClassWork" />
       <extension name="coverage">
         <pattern>
@@ -133,8 +135,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="bluejlab" />
-      <option name="MAIN_CLASS_NAME" value="bluejlab.NumberUtilitiesTest" />
-      <option name="METHOD_NAME" value="testGetRangeWithTwoStep" />
+      <option name="MAIN_CLASS_NAME" value="bluejlab.WriteLoopsTest" />
+      <option name="METHOD_NAME" value="TestHelloZipCode" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -150,11 +152,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.NumberUtilitiesTest.testGetExponentiationNumbersForCube" />
-        <item itemvalue="JUnit.NumberUtilitiesTest.testGetExponentiationNumbersForSquare" />
-        <item itemvalue="JUnit.NumberUtilitiesTest.testGetRangeWithFiveStep" />
-        <item itemvalue="JUnit.NumberUtilitiesTest.testGetRangeWithTwoStep" />
-        <item itemvalue="JUnit.NumberUtilitiesTest.testGetRangeWithOneStep" />
+        <item itemvalue="JUnit.WriteLoopsTest.TestCheckServer" />
+        <item itemvalue="JUnit.WriteLoopsTest.TestCheckGameScoreDoWhile" />
+        <item itemvalue="JUnit.WriteLoopsTest.TestCheckGameScore" />
+        <item itemvalue="JUnit.WriteLoopsTest.TestDriveHome" />
+        <item itemvalue="JUnit.WriteLoopsTest.TestHelloZipCode" />
       </list>
     </recent_temporary>
   </component>
@@ -200,22 +202,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1587567403603" />
-    <state width="1323" height="194" key="GridCell.Tab.0.bottom" timestamp="1587565102440">
+    <state width="1323" height="194" key="GridCell.Tab.0.bottom" timestamp="1588014122275">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="194" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587565102440" />
-    <state width="1323" height="194" key="GridCell.Tab.0.center" timestamp="1587565102439">
+    <state width="1323" height="194" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1588014122275" />
+    <state width="1323" height="194" key="GridCell.Tab.0.center" timestamp="1588014122274">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="194" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1587565102439" />
-    <state width="1323" height="194" key="GridCell.Tab.0.left" timestamp="1587565102439">
+    <state width="1323" height="194" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1588014122274" />
+    <state width="1323" height="194" key="GridCell.Tab.0.left" timestamp="1588014122274">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="194" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1587565102439" />
-    <state width="1323" height="194" key="GridCell.Tab.0.right" timestamp="1587565102440">
+    <state width="1323" height="194" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1588014122274" />
+    <state width="1323" height="194" key="GridCell.Tab.0.right" timestamp="1588014122274">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="194" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1587565102440" />
+    <state width="1323" height="194" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1588014122274" />
     <state x="163" y="0" key="SettingsEditor" timestamp="1583946379329">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -232,9 +234,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1587408678344" />
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1587561728832">
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1588014097202">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1587561728832" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1588014097202" />
   </component>
 </project>
